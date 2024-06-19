@@ -59,7 +59,7 @@ This JavaFX-based game combines platform travel, token collection, character sel
    - Platforms are generated with random widths and distances.
 
 10. **Stick Class:**
-    - Represents the stick used by the player to
+    - Represents the stick used by the player to cross platforms
 
 
 ### Contributors
