@@ -1,6 +1,6 @@
 # Project Overview
 
-This JavaFX-based game combines platform travel, token collection, character selection, and theme switching to create an engaging gaming experience. The project implements various principles of Obeject Oriented Programming (OOPs) to enable different aspects of gameplay, such as tokens, themes, characters, hitpoints, game statistics, and game mechanics.
+This JavaFX-based game combines platform travel, token collection, character selection, and theme switching to create an engaging gaming experience. The project implements various principles of Object Oriented Programming (OOPs) to enable different aspects of gameplay, such as tokens, themes, characters, hitpoints, game statistics, and game mechanics.
 
 ## How To Play
 
