@@ -62,6 +62,6 @@ This JavaFX-based game combines platform travel, token collection, character sel
     - Represents the stick used by the player to cross platforms
 
 
-### Contributors
+## Contributors
 1. Aditya Aggarwal
 2. Mehul Pahuja
